@@ -1,1 +1,1 @@
-$("#square").css("width","500");
+$("#square").css("width","500");""
